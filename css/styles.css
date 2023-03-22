@@ -19,7 +19,8 @@ nav {
 }
 
 nav ul {
-
+    display: block;
+    padding: 5em 10em 5em 10em;
 }
 
 nav ul li {
@@ -51,4 +52,8 @@ main h5 {
 
 main p {
     font-size: 1.5em;
+}
+
+footer {
+    text-align: center;
 }
