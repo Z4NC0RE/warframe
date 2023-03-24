@@ -60,6 +60,28 @@ main p {
     font-size: 1.5em;
 }
 
+.homeimg {
+    max-width: 80%;
+}
+
+.grineer {
+    max-width: 50%;
+    float: right;
+}
+
+.sentients {
+    max-width: 50%;
+    float: right;
+}
+
+.credits {
+    float: right;
+}
+
+.platinum {
+    float: right;
+}
+
 footer {
     text-align: center;
     background-color: grey;
