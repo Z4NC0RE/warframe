@@ -75,18 +75,16 @@ main p {
     float: right;
 }
 
-.platinum {
+.paltinum {
     float: right;
 }
 
 .hildryn {
     max-width: 60%;
     max-height: 500px;
-    float: right;
 }
 
 .baruuk {
-    float: right;
     max-height: 500px;
     max-width: 300px;
 }
@@ -114,6 +112,7 @@ main p {
 .newsletterimg {
     max-height: 500px;
     max-width: 600px;
+    float: right;
 }
 
 footer {
