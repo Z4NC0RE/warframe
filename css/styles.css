@@ -75,14 +75,13 @@ main p {
     float: right;
 }
 
-.credits {
-    float: right;
-    max-height: 400px;
-    max-width: 400px;
-}
-
 .platinum {
     float: right;
+}
+
+.hildryn {
+    max-width: 60%;
+    max-height: 500px;
 }
 
 footer {
