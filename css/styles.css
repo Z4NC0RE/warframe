@@ -82,6 +82,38 @@ main p {
 .hildryn {
     max-width: 60%;
     max-height: 500px;
+    float: right;
+}
+
+.baruuk {
+    float: right;
+    max-height: 500px;
+    max-width: 300px;
+}
+
+.primary {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.secondary {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.melee {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.compainion {
+    max-height: 400px;
+    max-width: 400px;
+}
+
+.newsletterimg {
+    max-height: 500px;
+    max-width: 600px;
 }
 
 footer {
