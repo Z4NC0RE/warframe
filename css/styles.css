@@ -126,6 +126,10 @@ tr {
     border-color: inherit;
 }
 
+label {
+    font-size: 1.5em;
+}
+
 input {
     height: 2em;
     width: 17em;
