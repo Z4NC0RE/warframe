@@ -43,6 +43,7 @@ nav ul li:hover {
 
 main {
     color: black;
+    min-height: 150px;
 }
 
 main h3 {
@@ -61,4 +62,6 @@ main p {
 
 footer {
     text-align: center;
+    background-color: grey;
+    color: black;
 }
