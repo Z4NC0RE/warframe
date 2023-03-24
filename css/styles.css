@@ -62,6 +62,7 @@ main p {
 
 .homeimg {
     max-width: 80%;
+    max-height: 400px;
 }
 
 .grineer {
