@@ -111,6 +111,42 @@ main p {
     float: right;
 }
 
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 1em;
+    border-color: #4e79a2;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+input {
+    height: 2em;
+    width: 17em;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: #4e79a2;
+    color: black;
+    border: 5px double black;
+}
+
+.frmButton {
+	width: 10em;
+}
+
+.frmButton:active {
+	background-color: #11181e;
+}
+
 footer {
     text-align: center;
     background-color: grey;
