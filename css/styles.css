@@ -109,6 +109,7 @@ main p {
     max-height: 500px;
     max-width: 600px;
     float: right;
+    padding: 15px;
 }
 
 table {
