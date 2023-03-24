@@ -77,6 +77,8 @@ main p {
 
 .credits {
     float: right;
+    max-height: 400px;
+    max-width: 400px;
 }
 
 .platinum {
